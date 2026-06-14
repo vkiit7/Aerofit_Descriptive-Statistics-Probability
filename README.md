@@ -43,7 +43,7 @@ The market research team at AeroFit wants to identify the characteristics of the
 
     *   **Product Preference:** The range of product preferences shows that KP281 is the most popular product, followed by KP282 and then KP283.
 
- # Recommendations
+ ## Recommendations
  *   **Gender-Specific Campaigns:** Design specific marketing campaigns targeting female customers to increase sales of KP281.
 
 *   **Target Younger Demographics:** Focus marketing efforts on younger age groups (20-40 years) as they show higher preference for AeroFit products.
